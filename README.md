@@ -12,6 +12,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git" width="600" alt="C++, C, C#, Python, MySQL, MATLAB, Arduino, Raspberry Pi, VSCode, Git">
   <br>
 
+  <!-- VHDL -->
+  <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50" alt="LTspice">
+  
   <!-- LTspice -->
   <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
 
