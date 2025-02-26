@@ -22,7 +22,6 @@
 
   <br>
   
-</p>
 
 ## **Contact Information**
 <div align="center">
@@ -35,4 +34,4 @@
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="40" alt="YouTube">
   </a>
-</p>
+
