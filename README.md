@@ -22,22 +22,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfatihg&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfatihg&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfatihg&theme=darkhub" alt="GitHub Trophies">
-</p>
-
 ---
 
 ## 📫 **Connect with Me**
