@@ -13,31 +13,6 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB Logo">
 </p>
-
----
-
-## 📌 **Pinned Projects (Compact)**
-<p align="center">
-  <a href="https://github.com/mfatihg/CSharpHospitalManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=dark&show_owner=false&hide_border=true" alt="CSharpHospitalManagementSystem">
-  </a>
-  <a href="https://github.com/mfatihg/DoorLockerWithBASYS3FPGAboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DoorLockerWithBASYS3FPGAboard&theme=dark&show_owner=false&hide_border=true" alt="DoorLockerWithBASYS3FPGAboard">
-  </a>
-  <a href="https://github.com/mfatihg/ElectronicStethoscope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectronicStethoscope&theme=dark&show_owner=false&hide_border=true" alt="ElectronicStethoscope">
-  </a>
-  <a href="https://github.com/mfatihg/TransferringAudioInformationViaLight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=TransferringAudioInformationViaLight&theme=dark&show_owner=false&hide_border=true" alt="TransferringAudioInformationViaLight">
-  </a>
-  <a href="https://github.com/mfatihg/UnevenSevenSidedDiceRoller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=UnevenSevenSidedDiceRoller&theme=dark&show_owner=false&hide_border=true" alt="UnevenSevenSidedDiceRoller">
-  </a>
-  <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=dark&show_owner=false&hide_border=true" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
-  </a>
-</p>
-
 ---
 
 ## 📫 **Contact Information**
@@ -51,11 +26,4 @@
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
-
----
-
-## 🎯 **Precision in Engineering**
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300px" alt="Engineering GIF">
 </p>
