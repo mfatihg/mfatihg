@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="center">👋 Hi, I'm Fatih</h1>
+<h3 align="center">🚀 Embedded Systems | FPGA & VHDL | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;FPGA+&+VHDL+Expert;AI+Enthusiast;Open+Source+Contributor;Love+Coding+%F0%9F%94%A8" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;FPGA+&+VHDL+Expert;AI+Enthusiast;Open+Source+Contributor;Passionate+Problem+Solver+%F0%9F%94%A8" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -14,13 +14,22 @@
 
 ## 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" alt="C++, C, C#, Python"/>
   <br>
-  <img src="https://img.shields.io/badge/-VHDL-00979D?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=verilog&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
 ---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfatihg&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfatihg&theme=tokyonight" alt="GitHub Streak">
+</p>
 
 ---
 
@@ -33,11 +42,10 @@
 
 ---
 
----
-
-### 🎯 **Let's Engineer Together!**
+## 🎯 **Let's Engineer Together!**
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400px">
 </p>
 
 ---
+
