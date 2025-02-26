@@ -9,9 +9,10 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git" width="600" alt="C++, C, C#, Python, MySQL, MATLAB, Arduino, Raspberry Pi, VSCode, Git">
+  <!-- Icons from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="600" alt="Technical Skills">
   <br>
-
+  
   <!-- VHDL -->
   <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
   
