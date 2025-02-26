@@ -1,7 +1,5 @@
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
 
----
-
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 30px;">
   <!-- Icons from skillicons.dev -->
