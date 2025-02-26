@@ -4,12 +4,13 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 30px;">
-  <!-- Icons from skillicons.dev -->
+  <!-- Centered Icons from skillicons.dev -->
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="800" height="50" alt="Technical Skills">
+  </div>
   <br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="800" height="50" alt="Technical Skills">
-  <br><br>
-
-  <!-- Additional Icons -->
+  
+  <!-- Additional Icons Not in Skillicons -->
   <!-- VHDL -->
   <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
 
@@ -25,9 +26,10 @@
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
 
-  <!-- LabView -->
+ <!-- LabView -->
   <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40">
   <br>
+  
 </p>
 
 ---
