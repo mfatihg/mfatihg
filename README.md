@@ -4,7 +4,6 @@
 <div align="center">
   <!-- Icons from skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="800" height="50" alt="Technical Skills">
-  <br>
   
   <!-- VHDL -->
   <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
