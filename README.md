@@ -19,7 +19,7 @@
   <img src="https://altair.com/images/default-source/resource-images/signalprocessingebook_1200x628-jpg.jpg?sfvrsn=ece8618c_0" width="50" alt="Signal Processing">
 
   <!-- STM32 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo.svg" width="50" alt="STM32">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo.svg](https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png)" width="50" alt="STM32">
 
   <!-- Microsoft Office -->
   <img src="https://skillicons.dev/icons?i=word,excel,ppt" width="150" alt="Microsoft Office (Word, Excel, PowerPoint)">
