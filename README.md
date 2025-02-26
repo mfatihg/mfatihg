@@ -49,22 +49,11 @@
 
 ---
 
-### 🎸 **Random Dev Quote**
-> _“First, solve the problem. Then, write the code.”_ – John Johnson
-
 ---
 
-### 💡 **Fun Fact**
-- ⚡ I love coding, coffee, and tech-related discussions.  
-
----
-
-### 🎯 **Let's Code Together!**
+### 🎯 **Let's Engineer Together!**
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400px">
 </p>
 
 ---
-
-🔥 Now, **commit and push this file** into your GitHub repository, and your profile will look even more **awesome**! 🚀🚀🚀  
-Let me know if you need **any more customizations!** 🤖💡
