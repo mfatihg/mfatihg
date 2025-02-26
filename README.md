@@ -38,22 +38,14 @@
 ---
 
 ## **Contact Information**
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/mfatihg">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:fatihgogus3@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/c/MehmetFatihGöğüş">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/mfatihg">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
+  </a>
+  <a href="mailto:fatihgogus3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail">
+  </a>
+  <a href="https://youtube.com/c/MehmetFatihGöğüş">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube">
+  </a>
+</p>
