@@ -9,7 +9,7 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab" width="450" alt="C++, C, C#, Python, MySQL, MATLAB">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git" width="600" alt="C++, C, C#, Python, MySQL, MATLAB, Arduino, Raspberry Pi, VSCode, Git">
   <br>
 
   <!-- LTspice -->
@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_logo_(2019–present).svg" width="50" alt="Microsoft Office">
 
   <br>
-  <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office Applications | MySQL</b>
+  <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office Applications | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
 </p>
 
 ---
