@@ -9,9 +9,11 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git" width="600" alt="C++, C, C#, Python, MySQL, MATLAB, Arduino, Raspberry Pi, VSCode, Git">
+  <!-- Icons from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,word,excel,ppt" width="600" alt="Technical Skills">
   <br>
 
+  <!-- Additional Icons Not in Skillicons -->
   <!-- LTspice -->
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/LTspice.png" width="50" alt="LTspice">
 
@@ -20,9 +22,6 @@
 
   <!-- STM32 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo.svg" width="50" alt="STM32">
-
-  <!-- Microsoft Office -->
-  <img src="https://skillicons.dev/icons?i=word,excel,ppt" width="150" alt="Microsoft Office (Word, Excel, PowerPoint)">
 
   <br>
   <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office (Word, Excel, PowerPoint) | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
