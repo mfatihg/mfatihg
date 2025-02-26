@@ -23,9 +23,9 @@
 
 ---
 
-## **Smart Electric Animation**
+## ⚡ **Flashing Electric Animation**
 <p align="center">
-  <img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" height="120" alt="Electric Animation">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Flashing Electric Symbol">
 </p>
 
 ---
