@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ **Technical Proficiency**
+## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" width="350" alt="C++, C, C#, Python">
   <br>
@@ -15,7 +15,7 @@
 </p>
 ---
 
-## 📫 **Contact Information**
+## **Contact Information**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <a href="https://linkedin.com/in/mfatihg">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
