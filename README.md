@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate engineer from Türkiye</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Love+Coding+%F0%9F%94%A8" alt="Typing Animation">
