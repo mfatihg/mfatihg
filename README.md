@@ -19,7 +19,7 @@
 ## **Contact Information**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 30px;">
   <a href="https://linkedin.com/in/mfatihg">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="180">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
   </a>
   <a href="mailto:fatihgogus3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100">
