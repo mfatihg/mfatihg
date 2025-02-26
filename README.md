@@ -13,7 +13,7 @@
   <br>
 
   <!-- LTspice -->
-  <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fengredu.com%2F2022%2F05%2F20%2Fltspice-variable-resistor%2F&psig=AOvVaw3i526fCuAa8VRwJwyF0B-t&ust=1740666357410000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCnrM7F4YsDFQAAAAAdAAAAABAE" width="50" alt="LTspice">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiANTcu1mOTVQI84Y5qLnYTVNGjn5afNH4EQ&s" width="50" alt="LTspice">
 
   <!-- Signal Processing -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/FFT_Plot.svg" width="50" alt="Signal Processing">
