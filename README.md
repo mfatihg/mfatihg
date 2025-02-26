@@ -40,12 +40,12 @@
 ## **Contact Information**
 <p align="center">
   <a href="https://linkedin.com/in/mfatihg">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="LinkedIn">
   </a>
   <a href="mailto:fatihgogus3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail">
+    <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" width="50" alt="Gmail">
   </a>
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" alt="YouTube">
   </a>
 </p>
