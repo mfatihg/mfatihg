@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://youtube.com/c/MehmetFatihGöğüş">
+      <a href="https://www.youtube.com/@MehmetFatihGöğüş">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40">
       </a>
     </td>
