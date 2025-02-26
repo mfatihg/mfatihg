@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">🚀 Embedded Systems | FPGA & VHDL | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;FPGA+%26+VHDL+Specialist;AI+Enthusiast;Open+Source+Contributor;Passionate+about+Coding+%F0%9F%94%A8" alt="Typing Animation">
