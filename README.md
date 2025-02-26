@@ -16,6 +16,21 @@
 
 ---
 
+### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Projects Showcase</span>
+<p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
+  <!-- Dynamically Shows Repositories -->
+  <a href="https://github.com/mfatihg?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=REPO_NAME&theme=graywhite" alt="Pinned Repo 1">
+  </a>
+  <a href="https://github.com/mfatihg?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=REPO_NAME&theme=graywhite" alt="Pinned Repo 2">
+  </a>
+  <br>
+  <a href="https://github.com/mfatihg?tab=repositories" style="font-size: 14px;">View All Projects</a>
+</p>
+
+---
+
 ### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Connect with Me</span>
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <a href="https://linkedin.com/in/mfatihg">
