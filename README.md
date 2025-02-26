@@ -16,7 +16,7 @@
   <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
 
   <!-- Signal Processing -->
-  <img src="https://altair.com/images/default-source/resource-images/signalprocessingebook_1200x628-jpg.jpg?sfvrsn=ece8618c_0" width="50" alt="Signal Processing">
+  <img src="https://altair.com/images/default-source/resource-images/signalprocessingebook_1200x628-jpg.jpg?sfvrsn=ece8618c_0" height="50" alt="Signal Processing">
 
   <!-- STM32 -->
   <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40" alt="STM32">
