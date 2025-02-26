@@ -19,8 +19,6 @@
 
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
-
-  <br>
   
 
 ## **Contact Information**
