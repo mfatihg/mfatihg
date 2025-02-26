@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
-
+<h1 align="center" style="font-family: 'Georgia', serif;">Hi 👋, I'm Fatih</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfatihg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
@@ -9,7 +8,7 @@
 ---
 
 ## 🛠️ **Languages & Tools**
-<p align="center">
+<p align="center" style="font-family: 'Georgia', serif;">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" alt="C++, C, C#, Python" />
   <br>
