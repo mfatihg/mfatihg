@@ -14,9 +14,12 @@
 
 ## 🛠️ **Languages & Tools**
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" alt="C++, C, C#, Python" />
   <br>
-  <img src="https://iconduck.com/icons/20821/vhdl" width="60" alt="VHDL Icon" />
+  <!-- VHDL Icon -->
+  <img src="https://iconduck.com/icons/102483/file-type-vhdl" width="60" alt="VHDL Icon" />
+  <!-- MATLAB Icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB Logo" />
 </p>
 
