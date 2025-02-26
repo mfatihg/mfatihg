@@ -24,8 +24,6 @@
   
 </p>
 
----
-
 ## **Contact Information**
 <p align="center">
   <a href="https://linkedin.com/in/mfatihg">
