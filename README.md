@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/VHDL_logo.png" width="60" alt="VHDL" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="60" alt="VHDL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB" />
 </p>
 
