@@ -1,14 +1,18 @@
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
 
+---
+
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 30px;">
   <!-- Icons from skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="800" height="50" alt="Technical Skills">
   <br>
-  
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,git,github,word,excel,ppt" width="800" height="50" alt="Technical Skills">
+  <br><br>
+
+  <!-- Additional Icons -->
   <!-- VHDL -->
   <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
-  
+
   <!-- LTspice -->
   <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
 
@@ -21,10 +25,9 @@
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
 
- <!-- LabView -->
+  <!-- LabView -->
   <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40">
   <br>
-  
 </p>
 
 ---
