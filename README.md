@@ -1,20 +1,23 @@
-
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate engineer from Türkiye</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Love+Coding+%F0%9F%94%A8" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfatihg&label=Profile%20views&color=0e75b6&style=flat" alt="mfatihg" />
+  <img src="https://komarev.com/ghpvc/?username=mfatihg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/mfatihg?label=Followers&style=social" alt="GitHub Followers">
 </p>
 
-## 🛠️ **Tech Stack & Tools**
+---
+
+## 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,django,flutter,git,github,vscode,linux,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,django,flutter,php,laravel,go,rust,cpp,git,github,vscode,linux,postgresql,mysql,mongodb,docker,kubernetes,aws" />
 </p>
+
+---
 
 ## 📊 **GitHub Stats**
 <p align="center">
@@ -25,15 +28,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfatihg&theme=tokyonight" alt="GitHub Streak">
 </p>
 
+---
+
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mfatihg&theme=darkhub" alt="GitHub Trophies">
 </p>
 
+---
+
 ## 📫 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/mfatihg"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:fatihgogus3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://youtube.com/c/MehmetFatihGöğüş"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
@@ -48,12 +56,12 @@
 
 ---
 
-### 🎯 **Let's Improve Together!**
+### 🎯 **Let's Code Together!**
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400px">
 </p>
 
 ---
 
-🔥 Now, commit and push this file into your GitHub repository, and your profile will look **amazing**! 🚀🚀🚀  
-Let me know if you need further **customizations!** 🤖🔧
+🔥 Now, commit and push this file into your GitHub repository, and your profile will look even more **awesome**! 🚀🚀🚀  
+Let me know if you need more **customizations!** 🤖💡
