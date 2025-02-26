@@ -46,6 +46,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail">
   </a>
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" alt="YouTube">
   </a>
 </p>
