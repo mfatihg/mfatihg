@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
 
-## **Technical Proficiency**
+## **Interests**
 <div align="center">
   <!-- Icons from skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,github" width="800" height="50">
