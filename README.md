@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Love+Coding+%F0%9F%94%A8" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;FPGA+&+VHDL+Expert;AI+Enthusiast;Open+Source+Contributor;Love+Coding+%F0%9F%94%A8" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -14,7 +14,10 @@
 
 ## 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,django,flutter,php,laravel,go,rust,cpp,git,github,vscode,linux,postgresql,mysql,mongodb,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
+  <br>
+  <img src="https://img.shields.io/badge/-VHDL-00979D?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
 ---
@@ -63,5 +66,5 @@
 
 ---
 
-🔥 Now, commit and push this file into your GitHub repository, and your profile will look even more **awesome**! 🚀🚀🚀  
-Let me know if you need more **customizations!** 🤖💡
+🔥 Now, **commit and push this file** into your GitHub repository, and your profile will look even more **awesome**! 🚀🚀🚀  
+Let me know if you need **any more customizations!** 🤖💡
