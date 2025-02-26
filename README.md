@@ -1,10 +1,5 @@
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
 
-<p align="center" style="font-family: 'Times New Roman', serif; font-size: 16px;">
-  <img src="https://komarev.com/ghpvc/?username=mfatihg&label=Profile%20views&color=2C3E50&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/mfatihg?label=Followers&style=social" alt="GitHub Followers">
-</p>
-
 ---
 
 ## **Technical Proficiency**
