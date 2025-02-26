@@ -10,26 +10,13 @@
   </div>
   <br>
   
-  <!-- Additional Icons Not in Skillicons -->
-  <!-- VHDL -->
-  <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
-
-  <!-- LTspice -->
+  <!-- Additional Icons -->
+  <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50" alt="VHDL">
   <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
-
-  <!-- Signal Processing -->
-  <img src="https://banner2.cleanpng.com/20180330/tde/avicp1c36.webp" height="50" width="50">
-
-  <!-- STM32 -->
-  <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40">
-
-  <!-- Microsoft Office -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
-
- <!-- LabView -->
-  <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40">
-  <br>
-  
+  <img src="https://banner2.cleanpng.com/20180330/tde/avicp1c36.webp" height="50" width="50" alt="Signal Processing">
+  <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40" alt="STM32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40" alt="Microsoft Office">
+  <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40" alt="LabView">
 </p>
 
 ---
