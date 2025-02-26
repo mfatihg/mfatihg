@@ -24,7 +24,6 @@
   
 
 ## **Contact Information**
-<div align="center">
   <a href="https://linkedin.com/in/mfatihg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" height="40" alt="LinkedIn">
   </a>
