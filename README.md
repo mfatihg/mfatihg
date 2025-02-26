@@ -16,34 +16,25 @@
 
 ---
 
-## 📌 **Projects Showcase**
-<p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <a href="https://github.com/mfatihg?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=mfatihg&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  </a>
-</p>
-
----
-
-## 📌 **Pinned Projects (All Repositories in One Row)**
+## 📌 **Pinned Projects (Compact)**
 <p align="center">
   <a href="https://github.com/mfatihg/CSharpHospitalManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=dark&card_width=200" alt="CSharpHospitalManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=dark&show_owner=false&hide_border=true" alt="CSharpHospitalManagementSystem">
   </a>
   <a href="https://github.com/mfatihg/DoorLockerWithBASYS3FPGAboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DoorLockerWithBASYS3FPGAboard&theme=dark&card_width=200" alt="DoorLockerWithBASYS3FPGAboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DoorLockerWithBASYS3FPGAboard&theme=dark&show_owner=false&hide_border=true" alt="DoorLockerWithBASYS3FPGAboard">
   </a>
   <a href="https://github.com/mfatihg/ElectronicStethoscope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectronicStethoscope&theme=dark&card_width=200" alt="ElectronicStethoscope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectronicStethoscope&theme=dark&show_owner=false&hide_border=true" alt="ElectronicStethoscope">
   </a>
   <a href="https://github.com/mfatihg/TransferringAudioInformationViaLight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=TransferringAudioInformationViaLight&theme=dark&card_width=200" alt="TransferringAudioInformationViaLight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=TransferringAudioInformationViaLight&theme=dark&show_owner=false&hide_border=true" alt="TransferringAudioInformationViaLight">
   </a>
   <a href="https://github.com/mfatihg/UnevenSevenSidedDiceRoller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=UnevenSevenSidedDiceRoller&theme=dark&card_width=200" alt="UnevenSevenSidedDiceRoller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=UnevenSevenSidedDiceRoller&theme=dark&show_owner=false&hide_border=true" alt="UnevenSevenSidedDiceRoller">
   </a>
   <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=dark&card_width=200" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=dark&show_owner=false&hide_border=true" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
   </a>
 </p>
 
