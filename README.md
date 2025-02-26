@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="LinkedIn">
   </a>
   <a href="mailto:fatihgogus3@gmail.com">
-    <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" width="50" alt="Gmail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" alt="Gmail">
   </a>
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" alt="YouTube">
