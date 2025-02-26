@@ -22,7 +22,7 @@
   <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40" alt="STM32">
 
   <!-- Microsoft Office -->
-  <img src="https://medhacloud.com/wp-content/uploads/2024/10/MSOffice.webp" height="40" alt="STM32">
+  <img src="https://pomme-z.be/wp-content/uploads/2024/05/microsoft-365-logo.jpg" height="40" alt="STM32">
 
   <br>
   <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office (Word, Excel, PowerPoint) | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
