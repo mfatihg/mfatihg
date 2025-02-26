@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Embedded Systems | FPGA & VHDL | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;FPGA+&+VHDL+Specialist;AI+Enthusiast;Open+Source+Contributor;Passionate+about+Coding+%F0%9F%94%A8" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;FPGA+%26+VHDL+Specialist;AI+Enthusiast;Open+Source+Contributor;Passionate+about+Coding+%F0%9F%94%A8" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" alt="C++ C# Python Icons" />
   <br>
-  <img src="YOUR_IMAGE_LINK_HERE" width="60" alt="VHDL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/VHDL_logo.png" width="60" alt="VHDL Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB Logo" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fatihgogus3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -39,5 +39,5 @@
 
 ### 🎯 **Let's Engineer Together!**
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400px" alt="Engineering GIF">
 </p>
