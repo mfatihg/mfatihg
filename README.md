@@ -22,10 +22,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo.svg" width="50" alt="STM32">
 
   <!-- Microsoft Office -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_logo_(2019–present).svg" width="50" alt="Microsoft Office">
+  <img src="https://skillicons.dev/icons?i=word,excel,ppt" width="150" alt="Microsoft Office (Word, Excel, PowerPoint)">
 
   <br>
-  <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office Applications | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
+  <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office (Word, Excel, PowerPoint) | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
 </p>
 
 ---
