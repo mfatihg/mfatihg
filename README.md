@@ -9,21 +9,18 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql" width="320" alt="C++, C, C#, Python, MySQL">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,mysql,matlab" width="450" alt="C++, C, C#, Python, MySQL, MATLAB">
   <br>
 
-  <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB">
-  
   <!-- LTspice -->
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/LTspice.png" width="50" alt="LTspice">
-  
+
   <!-- Signal Processing -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/FFT_Plot.svg" width="50" alt="Signal Processing">
-  
+
   <!-- STM32 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ST_logo.svg" width="50" alt="STM32">
-  
+
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_logo_(2019–present).svg" width="50" alt="Microsoft Office">
 
