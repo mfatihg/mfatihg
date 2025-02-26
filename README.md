@@ -5,15 +5,12 @@
   <img src="https://img.shields.io/github/followers/mfatihg?label=Followers&style=social" alt="GitHub Followers">
 </p>
 
----
-
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" width="350" alt="C++, C, C#, Python">
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB Logo">
 </p>
----
 
 ## **Contact Information**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
