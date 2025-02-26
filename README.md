@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
   <br>
-  <img src="https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=verilog&logoColor=white" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-vhdl-computer-programming-icons-flaticons-lineal-color-flat-icons.png" width="60" alt="VHDL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB" />
 </p>
 
 ---
