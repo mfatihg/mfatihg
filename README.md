@@ -9,9 +9,9 @@
 
 ## **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" width="350" alt="C++, C, C#, Python">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" width="320" alt="C++, C, C#, Python">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" alt="MATLAB Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" alt="MATLAB Logo">
 </p>
 
 ---
@@ -21,17 +21,17 @@
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/mfatihg">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="50">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40">
       </a>
     </td>
     <td align="center">
       <a href="mailto:fatihgogus3@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
       </a>
     </td>
     <td align="center">
       <a href="https://youtube.com/c/MehmetFatihGöğüş">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40">
       </a>
     </td>
   </tr>
