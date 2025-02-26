@@ -27,6 +27,9 @@
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40" alt="STM32">
 
+ <!-- LabView -->
+  <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40" alt="STM32">
+  
   <br>
   <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office (Word, Excel, PowerPoint) | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
 </p>
