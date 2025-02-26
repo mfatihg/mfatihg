@@ -30,9 +30,8 @@
 
  <!-- LabView -->
   <img src="https://www.svgrepo.com/show/306316/labview.svg" height="40">
-  
   <br>
-  <b>Signal Processing | STM32F1xx Boards | LTspice | Microsoft Office (Word, Excel, PowerPoint) | MySQL | Arduino | Raspberry Pi | VS Code | Git</b>
+  
 </p>
 
 ---
