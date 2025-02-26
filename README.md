@@ -21,15 +21,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
 </div>
 
----
-
-## ⚡ **Flashing Electric Animation**
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Flashing Electric Symbol">
-</p>
-
----
-
 ## **Contact Information**
 <p align="center">
   <a href="https://linkedin.com/in/mfatihg">
