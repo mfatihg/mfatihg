@@ -19,9 +19,12 @@
 
   <!-- Microsoft Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
-  
+</div>
+
+---
+
 ## **Contact Information**
-<div align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mfatihg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" height="40" alt="LinkedIn">
   </a>
@@ -31,4 +34,4 @@
   <a href="https://youtube.com/c/MehmetFatihGöğüş">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="40" alt="YouTube">
   </a>
-
+</p>
