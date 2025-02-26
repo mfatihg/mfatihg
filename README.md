@@ -7,7 +7,7 @@
 
 ---
 
-### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Technical Proficiency</span>
+## 🛠️ **Technical Proficiency**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python" width="350" alt="C++, C, C#, Python">
   <br>
@@ -16,22 +16,31 @@
 
 ---
 
-### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Projects Showcase</span>
-<p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
-  <!-- Dynamically Shows Repositories -->
-  <a href="https://github.com/mfatihg?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=REPO_NAME&theme=graywhite" alt="Pinned Repo 1">
+## 📌 **Pinned Projects**
+<p align="center">
+  <a href="https://github.com/mfatihg/CSharpHospitalManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=graywhite" alt="CSharpHospitalManagementSystem">
   </a>
-  <a href="https://github.com/mfatihg?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=REPO_NAME&theme=graywhite" alt="Pinned Repo 2">
+  <a href="https://github.com/mfatihg/DoorLockerWithBASYS3FPGAboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DoorLockerWithBASYS3FPGAboard&theme=graywhite" alt="DoorLockerWithBASYS3FPGAboard">
   </a>
-  <br>
-  <a href="https://github.com/mfatihg?tab=repositories" style="font-size: 14px;">View All Projects</a>
+  <a href="https://github.com/mfatihg/ElectronicStethoscope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectronicStethoscope&theme=graywhite" alt="ElectronicStethoscope">
+  </a>
+  <a href="https://github.com/mfatihg/TransferringAudioInformationViaLight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=TransferringAudioInformationViaLight&theme=graywhite" alt="TransferringAudioInformationViaLight">
+  </a>
+  <a href="https://github.com/mfatihg/UnevenSevenSidedDiceRoller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=UnevenSevenSidedDiceRoller&theme=graywhite" alt="UnevenSevenSidedDiceRoller">
+  </a>
+  <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=graywhite" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
+  </a>
 </p>
 
 ---
 
-### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Connect with Me</span>
+## 📫 **Contact Information**
 <p align="center" style="font-family: 'Times New Roman', serif; font-size: 14px;">
   <a href="https://linkedin.com/in/mfatihg">
     <img src="https://img.shields.io/badge/LinkedIn-2C3E50.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -46,7 +55,7 @@
 
 ---
 
-### <span style="font-family: 'Times New Roman', serif; font-size: 18px;">Precision in Engineering</span>
+## 🎯 **Precision in Engineering**
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300px" alt="Engineering GIF">
 </p>
