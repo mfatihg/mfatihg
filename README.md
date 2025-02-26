@@ -13,7 +13,7 @@
   <br>
 
   <!-- LTspice -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiANTcu1mOTVQI84Y5qLnYTVNGjn5afNH4EQ&s" width="50" alt="LTspice">
+  <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
 
   <!-- Signal Processing -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/FFT_Plot.svg" width="50" alt="Signal Processing">
