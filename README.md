@@ -98,25 +98,26 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 ## **Theoretical Projects**
 <p align="center">
   <a href="https://github.com/mfatihg/StockMasterBusinessPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=StockMasterBusinessPlan&theme=dark" alt="StockMasterBusinessPlan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=StockMasterBusinessPlan&theme=dark&show_owner=true&show_description=true" alt="StockMasterBusinessPlan">
   </a>
   <a href="https://github.com/mfatihg/DesignAndAnalysisOfInductors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DesignAndAnalysisOfInductors&theme=dark" alt="DesignAndAnalysisOfInductors">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DesignAndAnalysisOfInductors&theme=dark&show_owner=true&show_description=true" alt="DesignAndAnalysisOfInductors">
   </a>
   <a href="https://github.com/mfatihg/ElectrostaticEnergyInIonicCrystals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectrostaticEnergyInIonicCrystals&theme=dark" alt="ElectrostaticEnergyInIonicCrystals">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectrostaticEnergyInIonicCrystals&theme=dark&show_owner=true&show_description=true" alt="ElectrostaticEnergyInIonicCrystals">
   </a>
   <a href="https://github.com/mfatihg/RelaxationOscillatorCircuit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=RelaxationOscillatorCircuit&theme=dark" alt="RelaxationOscillatorCircuit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=RelaxationOscillatorCircuit&theme=dark&show_owner=true&show_description=true" alt="RelaxationOscillatorCircuit">
   </a>
   <a href="https://github.com/mfatihg/ArchimedeanSpiral">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ArchimedeanSpiral&theme=dark" alt="ArchimedeanSpiral">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ArchimedeanSpiral&theme=dark&show_owner=true&show_description=true" alt="ArchimedeanSpiral">
   </a>
   <a href="https://github.com/mfatihg/ParadoxOfDoubleConeRollingUpanIncline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ParadoxOfDoubleConeRollingUpanIncline&theme=dark" alt="ParadoxOfDoubleConeRollingUpanIncline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ParadoxOfDoubleConeRollingUpanIncline&theme=dark&show_owner=true&show_description=true" alt="ParadoxOfDoubleConeRollingUpanIncline">
   </a>
   <a href="https://github.com/mfatihg/BallisticPendulum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark" alt="BallisticPendulum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark&show_owner=true&show_description=true" alt="BallisticPendulum">
   </a>
 </p>
+
 
