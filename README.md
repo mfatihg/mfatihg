@@ -11,7 +11,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 
 ## 💬 **Send Me a Private Message**
 <div align="center">
-  <a href="https://github.com/mfatihg/mfatihg/discussions/new">
+  <a href="https://github.com/mfatihg/mfatihg/discussions/new/choose">
     <img src="https://img.shields.io/badge/💬_Send_Me_a_Message-252525?style=for-the-badge&logo=github&logoColor=white" alt="Send Me a Private Message">
   </a>
 </div>
