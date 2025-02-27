@@ -43,3 +43,24 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
+## 📌 **Pinned Projects**
+<p align="center">
+  <a href="https://github.com/mfatihg/CSharpHospitalManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=dark" alt="CSharpHospitalManagementSystem">
+  </a>
+  <a href="https://github.com/mfatihg/DoorLockerWithBASYS3FPGAboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DoorLockerWithBASYS3FPGAboard&theme=dark" alt="DoorLockerWithBASYS3FPGAboard">
+  </a>
+  <a href="https://github.com/mfatihg/ElectronicStethoscope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectronicStethoscope&theme=dark" alt="ElectronicStethoscope">
+  </a>
+  <a href="https://github.com/mfatihg/TransferringAudioInformationViaLight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=TransferringAudioInformationViaLight&theme=dark" alt="TransferringAudioInformationViaLight">
+  </a>
+  <a href="https://github.com/mfatihg/UnevenSevenSidedDiceRoller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=UnevenSevenSidedDiceRoller&theme=dark" alt="UnevenSevenSidedDiceRoller">
+  </a>
+  <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=dark" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
+  </a>
+</p>
