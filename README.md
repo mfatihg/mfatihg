@@ -51,7 +51,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 </p>
 
 
-## **Projects**
+## **Technical Projects**
 <p align="center">
   <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=LineFollowerRobotWithPIDAdaptiveCruiseControl&theme=dark" alt="LineFollowerRobotWithPIDAdaptiveCruiseControl">
