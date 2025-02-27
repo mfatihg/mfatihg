@@ -21,15 +21,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
 </div>
 
-
 <!-- Top Languages Card -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true)
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfatihg&show_icons=true&theme=dark&hide_border=true)
-
-<!-- GitHub Activity Graph -->
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mfatihg&theme=react-dark&bg_color=20232a&hide_border=true)
-
 
 ## **Contact Information**
 <p align="center">
