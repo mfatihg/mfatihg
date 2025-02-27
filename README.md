@@ -51,30 +51,11 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <!-- Most Used Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" height="175" alt="Most Used Languages" />
-    </td>
-    <td align="center">
-      <!-- Projects I'm Currently Working On Card -->
-      <div style="width:400px; height:175px; background-color:#0d1117; color:white; border:1px solid #444; border-radius: 5px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <h3 style="margin: 0 0 10px 0;">Projects I'm Currently Working On</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          <li>Smart Sensor Network</li>
-          <li>Real-Time Image Processing</li>
-          <li>Reinforcement Learning in Robotics</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## **Fun Elements**
-<div align="center">
-  <h3>Tic Tac Toe</h3>
-  <!-- Tic Tac Toe (XOX) Game Visual -->
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" alt="Tic Tac Toe Game" />
-  <p>Enjoy a quick game of Tic Tac Toe!</p>
+## 
+<div align="left">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" height="175" alt="Most Used Languages" />
+  
+  <!-- Projects I'm Currently Working On Card -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=N-Digit-7Segment&theme=dark&hide_border=true" width="400" height="175" alt="Current Project: N-Digit-7Segment" />
 </div>
