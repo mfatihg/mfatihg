@@ -50,3 +50,21 @@ I am an **Electrical-Electronics Engineer** with a passion for:
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="40" alt="YouTube">
   </a>
 </p>
+
+
+---
+
+## Projects I'm Currently Working On
+- **Smart Sensor Network**  
+  Developing an integrated system using STM32 and Arduino to monitor environmental conditions.  
+  [View Project](https://github.com/mfatihg/SmartSensorNetwork)
+
+- **Real-Time Image Processing**  
+  Experimenting with MATLAB algorithms for real-time image detection and processing tasks.  
+  [View Project](https://github.com/mfatihg/RealTimeImageProcessing)
+
+- **Reinforcement Learning in Robotics**  
+  Implementing reinforcement learning techniques on robotic platforms using Python.  
+  [View Project](https://github.com/mfatihg/ReinforcementLearningRobotics)
+
+---
