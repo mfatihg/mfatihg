@@ -9,6 +9,13 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 - **Circuit Design & Verilog**  
 - **Data Structures & Algorithms**
 
+## 💬 **Send Me a Private Message**
+<div align="center">
+  <a href="https://github.com/mfatihg/mfatihg/discussions/new">
+    <img src="https://img.shields.io/badge/💬_Send_Me_a_Message-252525?style=for-the-badge&logo=github&logoColor=white" alt="Send Me a Private Message">
+  </a>
+</div>
+
   
 ## **Interests**
 <div align="center">
