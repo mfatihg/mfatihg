@@ -51,11 +51,11 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-## 
-<div align="left">
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" height="175" alt="Most Used Languages" />
-  
-  <!-- Projects I'm Currently Working On Card -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=N-Digit-7Segment&theme=dark&hide_border=true" width="400" height="175" alt="Current Project: N-Digit-7Segment" />
-</div>
+## Fun Element: Play Tic Tac Toe
+<p align="center">
+  Click the button below to play an interactive Tic Tac Toe (XOX) game!
+  <br><br>
+  <a href="https://fatih-tictactoe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tic_Tac_Toe-%23FF69B4?style=for-the-badge" alt="Play Tic Tac Toe"/>
+  </a>
+</p>
