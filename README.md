@@ -79,21 +79,22 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 ## **Coding With Practices**
 <p align="center">
   <a href="https://github.com/mfatihg/MyMATLABCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyMATLABCodesWithPractices&theme=dark" alt="MyMATLABCodesWithPractices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyMATLABCodesWithPractices&theme=dark&show_owner=false" alt="MyMATLABCodesWithPractices">
   </a>
   <a href="https://github.com/mfatihg/MyPythonCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyPythonCodesWithPractices&theme=dark" alt="MyPythonCodesWithPractices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyPythonCodesWithPractices&theme=dark&show_owner=false" alt="MyPythonCodesWithPractices">
   </a>
   <a href="https://github.com/mfatihg/MyRegisterBasedCCodesWithPracticesOnSTM32F1xx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyRegisterBasedCCodesWithPracticesOnSTM32F1xx&theme=dark" alt="MyRegisterBasedCCodesWithPracticesOnSTM32F1xx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyRegisterBasedCCodesWithPracticesOnSTM32F1xx&theme=dark&show_owner=false" alt="MyRegisterBasedCCodesWithPracticesOnSTM32F1xx">
   </a>
   <a href="https://github.com/mfatihg/MyVHDLCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyVHDLCodesWithPractices&theme=dark" alt="MyVHDLCodesWithPractices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyVHDLCodesWithPractices&theme=dark&show_owner=false" alt="MyVHDLCodesWithPractices">
   </a>
   <a href="https://github.com/mfatihg/MyCPPCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyCPPCodesWithPractices&theme=dark" alt="MyCPPCodesWithPractices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyCPPCodesWithPractices&theme=dark&show_owner=false" alt="MyCPPCodesWithPractices">
   </a>
 </p>
+
 
 ## **Theoretical Projects**
 <p align="center">
