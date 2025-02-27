@@ -32,7 +32,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
 </div>
 
----
+-
 <div align="center">
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" alt="Most Used Languages" />
