@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
-
+<div align="center">
 I am an **Electrical-Electronics Engineer** with a passion for:
 
 - **Embedded Systems** (STM32, Arduino, etc.)  
@@ -8,6 +8,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 - **Machine Learning & AI**  
 - **Circuit Design & Verilog**  
 - **Data Structures & Algorithms**
+</div>
 
 ## **Interests**
 <div align="center">
