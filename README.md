@@ -51,8 +51,6 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
----
-
 ## **Technical Projects**
 <p align="center">
   <a href="https://github.com/mfatihg/LineFollowerRobotWithPIDAdaptiveCruiseControl">
