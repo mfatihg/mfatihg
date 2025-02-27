@@ -78,7 +78,6 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
----
 
 ## **Coding With Practices**
 <p align="center">
@@ -99,7 +98,6 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
----
 
 ## **Theoretical Projects**
 <p align="center">
