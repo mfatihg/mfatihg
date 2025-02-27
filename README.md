@@ -43,7 +43,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-## 📌 **Pinned Projects**
+##**Theoretical Projects**
 <p align="center">
   <a href="https://github.com/mfatihg/CSharpHospitalManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=CSharpHospitalManagementSystem&theme=dark" alt="CSharpHospitalManagementSystem">
