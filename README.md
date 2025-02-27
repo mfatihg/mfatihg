@@ -4,7 +4,7 @@
 
 I am an **Electrical-Electronics Engineer** with a passion for:
 
-- **Embedded Systems** (STM32, Arduino, MSP430, etc.)  
+- **Embedded Systems** (STM32, Arduino, etc.)  
 - **Signal & Image Processing** (MATLAB, Python)  
 - **Machine Learning & AI**  
 - **Circuit Design & Verilog**  
