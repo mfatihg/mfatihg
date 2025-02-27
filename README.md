@@ -39,7 +39,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   <a href="mailto:fatihgogus3@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="40" alt="Gmail">
   </a>
-  <a href="https://youtube.com/c/MehmetFatihGöğüş">
+  <a href="https://www.youtube.com/@MehmetFatihG%C3%B6%C4%9F%C3%BC%C5%9F">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="40" alt="YouTube">
   </a>
 </p>
