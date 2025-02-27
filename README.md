@@ -34,6 +34,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 
 <!-- Top Languages Card -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" alt="Most Used Languages" />
 
 ## **Contact Information**
 <p align="center">
