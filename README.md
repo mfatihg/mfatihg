@@ -51,10 +51,3 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-- **Random Fun GIF:**  
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Fun GIF" />
-
-- **Tech Meme Corner:**  
-  ![Tech Meme](https://i.imgflip.com/4/3vzejv.jpg)
-
----
