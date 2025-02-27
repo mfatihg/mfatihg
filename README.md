@@ -117,7 +117,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ParadoxOfDoubleConeRollingUpanIncline&theme=dark&show_owner=false" alt="ParadoxOfDoubleConeRollingUpanIncline">
   </a>
   <a href="https://github.com/mfatihg/BallisticPendulum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark&show_owner=false" alt="BallisticPendulum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark&show_owner=false&show_description=true" alt="BallisticPendulum">
   </a>
 </p>
 
