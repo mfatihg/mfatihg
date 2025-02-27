@@ -95,28 +95,5 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-## **Theoretical Projects**
-<p align="center">
-  <a href="https://github.com/mfatihg/StockMasterBusinessPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=StockMasterBusinessPlan&theme=dark" alt="StockMasterBusinessPlan">
-  </a>
-  <a href="https://github.com/mfatihg/DesignAndAnalysisOfInductors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DesignAndAnalysisOfInductors&theme=dark" alt="DesignAndAnalysisOfInductors">
-  </a>
-  <a href="https://github.com/mfatihg/ElectrostaticEnergyInIonicCrystals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectrostaticEnergyInIonicCrystals&theme=dark" alt="ElectrostaticEnergyInIonicCrystals">
-  </a>
-  <a href="https://github.com/mfatihg/RelaxationOscillatorCircuit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=RelaxationOscillatorCircuit&theme=dark" alt="RelaxationOscillatorCircuit">
-  </a>
-  <a href="https://github.com/mfatihg/ArchimedeanSpiral">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ArchimedeanSpiral&theme=dark" alt="ArchimedeanSpiral">
-  </a>
-  <a href="https://github.com/mfatihg/ParadoxOfDoubleConeRollingUpanIncline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ParadoxOfDoubleConeRollingUpanIncline&theme=dark" alt="ParadoxOfDoubleConeRollingUpanIncline">
-  </a>
-  <a href="https://github.com/mfatihg/BallisticPendulum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark" alt="BallisticPendulum">
-  </a>
-</p>
+
 
