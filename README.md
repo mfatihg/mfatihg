@@ -33,7 +33,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 </div>
 
 ##
-<div align="center">
+<div align="left">
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihg&layout=compact&theme=dark&hide_border=true" width="400" height="175"  alt="Most Used Languages" />
 </div>
@@ -51,20 +51,3 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-
----
-
-## Projects I'm Currently Working On
-- **Smart Sensor Network**  
-  Developing an integrated system using STM32 and Arduino to monitor environmental conditions.  
-  [View Project](https://github.com/mfatihg/SmartSensorNetwork)
-
-- **Real-Time Image Processing**  
-  Experimenting with MATLAB algorithms for real-time image detection and processing tasks.  
-  [View Project](https://github.com/mfatihg/RealTimeImageProcessing)
-
-- **Reinforcement Learning in Robotics**  
-  Implementing reinforcement learning techniques on robotic platforms using Python.  
-  [View Project](https://github.com/mfatihg/ReinforcementLearningRobotics)
-
----
