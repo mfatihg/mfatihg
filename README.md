@@ -2,7 +2,7 @@
 
 I am an **Electrical-Electronics Engineer** with a passion for:
 
-- 🚀 **Embedded Systems** (STM32, Arduino, etc.)  
+- 🚀 **Embedded Systems** (STM32, Raspberry Pi, Arduino, etc.)  
 - 📊 **Signal & Image Processing** (MATLAB, Python)  
 - 🤖 **Machine Learning & AI** - ⚡ **Circuit & Hardware Design** - 📟 **PCB Design** (Altium, EasyEDA, etc.)
 
