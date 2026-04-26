@@ -1,48 +1,44 @@
-
-<h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih</h1>
+<h1 align="center" style="font-family: 'Times New Roman', serif; font-weight: bold;">Hi, I am Fatih 👋</h1>
 
 I am an **Electrical-Electronics Engineer** with a passion for:
 
-- **Embedded Systems** (STM32, Arduino, etc.)  
-- **Signal & Image Processing** (MATLAB, Python)  
-- **Machine Learning & AI**  
-- **Circuit Design & Verilog**  
-- **Data Structures & Algorithms**
+- 🚀 **Embedded Systems** (STM32, Arduino, etc.)  
+- 📊 **Signal & Image Processing** (MATLAB, Python)  
+- 🤖 **Machine Learning & AI** - ⚡ **Circuit Design & Verilog** - 💻 **Data Structures & Algorithms**
 
+---
 
-## **Interests**
+## **Interests & Skills**
 <div align="center">
-  <!-- Icons from skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,github" width="800" height="50">
-  
-  <!-- VHDL -->
-  <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" width="50">
-  
-  <!-- LTspice -->
-  <img src="https://i.redd.it/x6gnx2y78vy51.png" width="50" alt="LTspice">
-
-  <!-- Signal Processing -->
-  <img src="https://banner2.cleanpng.com/20180330/tde/avicp1c36.webp" height="50" width="50">
-
-  <!-- STM32 -->
-  <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40">
-
-  <!-- Microsoft Office -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/800px-Microsoft_365_%282022%29.svg.png" height="40">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,matlab,arduino,raspberrypi,vscode,github&theme=dark" alt="Skills" />
+  </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/VHDL-005C84?style=for-the-badge&logo=fpga&logoColor=white" alt="VHDL">
+  <img src="https://img.shields.io/badge/LTspice-FF0000?style=for-the-badge&logo=analog&logoColor=white" alt="LTspice">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/Signal_Processing-0076A8?style=for-the-badge&logo=audioboom&logoColor=white" alt="Signal Processing">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
+</div>
+
+---
 
 ## **Contact Information**
 <p align="center">
   <a href="https://linkedin.com/in/mfatihg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" height="40" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:fatihgogus3@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="40" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.youtube.com/@MehmetFatihG%C3%B6%C4%9F%C3%BC%C5%9F">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="40" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
+
+---
 
 ## **Ongoing Projects**
 <p align="center">
@@ -76,7 +72,6 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
 </p>
 
-
 ## **Coding With Practices**
 <p align="center">
   <a href="https://github.com/mfatihg/MyMATLABCodesWithPractices">
@@ -95,7 +90,6 @@ I am an **Electrical-Electronics Engineer** with a passion for:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyCPPCodesWithPractices&theme=dark&show_owner=false&show_description=true" alt="MyCPPCodesWithPractices">
   </a>
 </p>
-
 
 ## **Theoretical Projects**
 <p align="center">
