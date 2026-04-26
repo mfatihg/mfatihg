@@ -4,7 +4,7 @@ I am an **Electrical-Electronics Engineer** with a passion for:
 
 - 🚀 **Embedded Systems** (STM32, Arduino, etc.)  
 - 📊 **Signal & Image Processing** (MATLAB, Python)  
-- 🤖 **Machine Learning & AI** - ⚡ **Circuit Design & Verilog** - 💻 **Data Structures & Algorithms**
+- 🤖 **Machine Learning & AI** - ⚡ **Circuit & Hardware Design** - 📟 **PCB Design** (Altium, EasyEDA, etc.)
 
 ---
 
@@ -79,39 +79,3 @@ I am an **Electrical-Electronics Engineer** with a passion for:
   </a>
   <a href="https://github.com/mfatihg/MyPythonCodesWithPractices">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyPythonCodesWithPractices&theme=dark&show_owner=false&show_description=true" alt="MyPythonCodesWithPractices">
-  </a>
-  <a href="https://github.com/mfatihg/MyRegisterBasedCCodesWithPracticesOnSTM32F1xx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyRegisterBasedCCodesWithPracticesOnSTM32F1xx&theme=dark&show_owner=false&show_description=true" alt="MyRegisterBasedCCodesWithPracticesOnSTM32F1xx">
-  </a>
-  <a href="https://github.com/mfatihg/MyVHDLCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyVHDLCodesWithPractices&theme=dark&show_owner=false&show_description=true" alt="MyVHDLCodesWithPractices">
-  </a>
-  <a href="https://github.com/mfatihg/MyCPPCodesWithPractices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=MyCPPCodesWithPractices&theme=dark&show_owner=false&show_description=true" alt="MyCPPCodesWithPractices">
-  </a>
-</p>
-
-## **Theoretical Projects**
-<p align="center">
-  <a href="https://github.com/mfatihg/StockMasterBusinessPlan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=StockMasterBusinessPlan&theme=dark&show_owner=false&show_description=true" alt="StockMasterBusinessPlan">
-  </a>
-  <a href="https://github.com/mfatihg/DesignAndAnalysisOfInductors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=DesignAndAnalysisOfInductors&theme=dark&show_owner=false&show_description=true" alt="DesignAndAnalysisOfInductors">
-  </a>
-  <a href="https://github.com/mfatihg/ElectrostaticEnergyInIonicCrystals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ElectrostaticEnergyInIonicCrystals&theme=dark&show_owner=false&show_description=true" alt="ElectrostaticEnergyInIonicCrystals">
-  </a>
-  <a href="https://github.com/mfatihg/RelaxationOscillatorCircuit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=RelaxationOscillatorCircuit&theme=dark&show_owner=false&show_description=true" alt="RelaxationOscillatorCircuit">
-  </a>  
-  <a href="https://github.com/mfatihg/ParadoxOfDoubleConeRollingUpanIncline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ParadoxOfDoubleConeRollingUpanIncline&theme=dark&show_owner=false&show_description=true" alt="ParadoxOfDoubleConeRollingUpanIncline">
-  </a>
-  <a href="https://github.com/mfatihg/BallisticPendulum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=BallisticPendulum&theme=dark&show_owner=false&show_description=true" alt="BallisticPendulum">
-  </a>
-  <a href="https://github.com/mfatihg/ArchimedeanSpiral">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfatihg&repo=ArchimedeanSpiral&theme=dark&show_owner=false&show_description=true" alt="ArchimedeanSpiral">
-  </a>
-</p>
